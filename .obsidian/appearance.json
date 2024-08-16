@@ -1,5 +1,8 @@
 {
   "textFontFamily": "YaHei Consolas Hybrid",
   "cssTheme": "Things",
-  "interfaceFontFamily": "YaHei Consolas Hybrid"
+  "interfaceFontFamily": "YaHei Consolas Hybrid",
+  "enabledCssSnippets": [
+    "coffebean-图片对齐语法增强"
+  ]
 }

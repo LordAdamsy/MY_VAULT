@@ -1,0 +1,22 @@
+
+/* 
+@Author   : 咖啡豆
+@contact  : https://obsidian.vip/
+@File     : coffeebean-补充图片对齐语法.css
+@Software : vscode
+@Date     : 2023-02-13 17:53:32
+@upDate   : 2023-02-13 17:53:37
+@Desc     : 强制增加图片对齐语法
+            在md文件中，图片的对齐语法是：![[Pasted image 20221125235721.png#pic_center|500]]
+*/
+
+/* 正则匹配，如果图片的链接中包含 #pic_center 的，图片居中显示 */
+img {
+    display: block !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+}
+
+ .markdown-source-view.mod-cm6 .cm-content > * {
+    margin: auto !important;
+}

@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a9e7608d71c13bce",
+        "id": "891b521e697fd4d8",
         "type": "tabs",
         "children": [
           {
-            "id": "2d49f8c70e0ed60c",
+            "id": "ff3608e45f96c50c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RACH.md",
+                "file": "esp32/BLINK（led_strip）/gpio.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RACH.md",
+                "file": "esp32/BLINK（led_strip）/gpio.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RACH.md",
+                "file": "esp32/BLINK（led_strip）/gpio.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RACH.md"
+                "file": "esp32/BLINK（led_strip）/gpio.md"
               }
             }
           }
@@ -146,15 +146,34 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "2d49f8c70e0ed60c",
+  "active": "ff3608e45f96c50c",
   "lastOpenFiles": [
-    "Pasted image 20240716115241.png",
-    "RACH.md",
-    "NSA.md",
-    "38.821.md",
-    "Pasted image 20240716114721.png",
-    "Pasted image 20240716114701.png",
-    "Pasted image 20240716115224.png",
+    "esp32/BLINK（led_strip）/led_strip.md",
+    "esp32/BLINK（led_strip）/pic/96c4f6391a8c6ca7fdc941da9979ed4a.png",
+    "esp32/BLINK（led_strip）/pic/251fe8047b7bc8764f1b459e6df85080.png",
+    "esp32/BLINK（led_strip）/pic/Pasted image 20240815191208.png",
+    "esp32/BLINK（led_strip）/pic/7134624c8c968e1f85cc5b24a9d450de 1.png",
+    "esp32/BLINK（led_strip）/pic/7134624c8c968e1f85cc5b24a9d450de.png",
+    "esp32/BLINK（led_strip）/pic/40a6b620685942f5f1212f48f980fbf5.png",
+    "esp32/BLINK（led_strip）/gpio.md",
+    "esp32/BLINK（led_strip）/pic",
+    "esp32/BLINK（led_strip）/96c4f6391a8c6ca7fdc941da9979ed4a.png",
+    "esp32/BLINK（led_strip）/251fe8047b7bc8764f1b459e6df85080.png",
+    "esp32/FREERTOS",
+    "satellite to phone",
+    "satellite to phone/random access/38.821.md",
+    "esp32/PROJECT INITIAL/PROJECT CONFIGURATION.md",
+    "esp32/BLINK（led_strip）",
+    "esp32/PROJECT INITIAL/component.md",
+    "esp32/PROJECT INITIAL",
+    "satellite to phone/NB-IoT NTN/IoT Rondom Access.md",
+    "esp32",
+    "satellite to phone/NB-IoT NTN",
+    "satellite to phone/random access/RACH.md",
+    "satellite to phone/random access",
+    "satellite to phone/random access/Pasted image 20240716115241.png",
+    "satellite to phone/random access/NSA.md",
+    "satellite to phone/random access/Pasted image 20240716114721.png",
     "欢迎.md",
     "38.821"
   ]

@@ -15,5 +15,12 @@
 
 ![[Pasted image 20240815191208.png]]
 
-### 常用函数
+### 驱动方式
+1. RMT红外遥控，通过发射器发射驱动脉冲
+2. LEDC PWM产生脉冲驱动RGB LED
 
+### 使用方式
+
+**通过添加清单文件引入第三方依赖espressif/led_strip**
+
+常用api可见led_strip.h

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "esp32/BLINK（led_strip）/led_strip.md",
+                "file": "esp32/BLINK（led_strip）/gpio.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "esp32/BLINK（led_strip）/led_strip.md",
+                "file": "esp32/BLINK（led_strip）/gpio.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "esp32/BLINK（led_strip）/led_strip.md",
+                "file": "esp32/BLINK（led_strip）/gpio.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "esp32/BLINK（led_strip）/led_strip.md"
+                "file": "esp32/BLINK（led_strip）/gpio.md"
               }
             }
           }
@@ -148,10 +148,11 @@
   },
   "active": "ff3608e45f96c50c",
   "lastOpenFiles": [
+    "esp32/BLINK（led_strip）/led_strip.md",
+    "esp32/BLINK（led_strip）/gpio.md",
     "esp32/PROJECT INITIAL/yml文件.md",
     "esp32/PROJECT INITIAL/PROJECT CONFIGURATION.md",
     "esp32/PROJECT INITIAL/component.md",
-    "esp32/BLINK（led_strip）/led_strip.md",
     "satellite to phone/random access/pic/Pasted image 20240716114701.png",
     "satellite to phone/random access/NSA.md",
     "satellite to phone/random access/pic",
@@ -160,7 +161,6 @@
     "satellite to phone/random access/pic/Pasted image 20240716114721.png",
     "satellite to phone/random access/38.821.md",
     "satellite to phone/NB-IoT NTN/IoT Rondom Access.md",
-    "esp32/BLINK（led_strip）/gpio.md",
     "esp32/BLINK（led_strip）/pic/96c4f6391a8c6ca7fdc941da9979ed4a.png",
     "esp32/BLINK（led_strip）/pic/251fe8047b7bc8764f1b459e6df85080.png",
     "esp32/BLINK（led_strip）/pic/Pasted image 20240815191208.png",

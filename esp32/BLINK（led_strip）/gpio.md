@@ -18,3 +18,6 @@ void key_init(void)
 1. gpio_config(@param:pointer)
 2. gpio_set_level(gpio_number, elec level)
 3. gpio_get_level(gpio_number)
+
+**tips**
+**注意GPIO口的输入与输出模式，按键对应只能为输入模式**

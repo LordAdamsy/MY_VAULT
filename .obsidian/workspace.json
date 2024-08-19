@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "esp32/BLINK（led_strip）/gpio.md",
+                "file": "satellite to phone/random access/literature/Random Access Procedure Over NTN_From Theory to Practice.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "esp32/BLINK（led_strip）/gpio.md",
+                "file": "satellite to phone/random access/literature/Random Access Procedure Over NTN_From Theory to Practice.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "esp32/BLINK（led_strip）/gpio.md",
+                "file": "satellite to phone/random access/literature/Random Access Procedure Over NTN_From Theory to Practice.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "esp32/BLINK（led_strip）/gpio.md"
+                "file": "satellite to phone/random access/literature/Random Access Procedure Over NTN_From Theory to Practice.md"
               }
             }
           }
@@ -146,15 +146,22 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "ff3608e45f96c50c",
+  "active": "e9a75c5bc2bb1abd",
   "lastOpenFiles": [
-    "esp32/BLINK（led_strip）/led_strip.md",
+    "satellite to phone/random access/literature/pic/Pasted image 20240819165800.png",
+    "satellite to phone/random access/literature/pic/Pasted image 20240819162908.png",
+    "satellite to phone/random access/literature/pic/Pasted image 20240819154638.png",
+    "satellite to phone/random access/literature/pic",
+    "satellite to phone/random access/RACH.md",
+    "satellite to phone/random access/literature/Random Access Procedure Over NTN_From Theory to Practice.md",
+    "satellite to phone/random access/literature",
+    "satellite to phone/random access/NSA.md",
     "esp32/BLINK（led_strip）/gpio.md",
+    "esp32/BLINK（led_strip）/led_strip.md",
     "esp32/PROJECT INITIAL/yml文件.md",
     "esp32/PROJECT INITIAL/PROJECT CONFIGURATION.md",
     "esp32/PROJECT INITIAL/component.md",
     "satellite to phone/random access/pic/Pasted image 20240716114701.png",
-    "satellite to phone/random access/NSA.md",
     "satellite to phone/random access/pic",
     "satellite to phone/random access/pic/Pasted image 20240716115241.png",
     "satellite to phone/random access/pic/Pasted image 20240716115224.png",
@@ -165,8 +172,6 @@
     "esp32/BLINK（led_strip）/pic/251fe8047b7bc8764f1b459e6df85080.png",
     "esp32/BLINK（led_strip）/pic/Pasted image 20240815191208.png",
     "esp32/BLINK（led_strip）/pic/7134624c8c968e1f85cc5b24a9d450de 1.png",
-    "esp32/BLINK（led_strip）/pic/7134624c8c968e1f85cc5b24a9d450de.png",
-    "esp32/BLINK（led_strip）/pic/40a6b620685942f5f1212f48f980fbf5.png",
     "esp32/BLINK（led_strip）/pic",
     "esp32/FREERTOS",
     "satellite to phone",
@@ -174,9 +179,6 @@
     "esp32/PROJECT INITIAL",
     "esp32",
     "satellite to phone/NB-IoT NTN",
-    "satellite to phone/random access/RACH.md",
-    "satellite to phone/random access",
-    "欢迎.md",
-    "38.821"
+    "欢迎.md"
   ]
 }

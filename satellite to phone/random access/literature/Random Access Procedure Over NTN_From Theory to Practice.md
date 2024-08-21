@@ -31,6 +31,34 @@ BS向UE发回确认，C-RNTI作为用户的永久ID
 message 3和4应用HARQ，包含表示ACK与NACK的额外信息
 
 ![[Pasted image 20240819165800.png]]
+
 ### NTN的RA流程中的挑战
 
 #### RAO中UE和BA的失配
+高时延导致接入序列检测失败，引起BS和UE的RAO失配，BS无法收到MSG 1。
+#### UE无法收到MSG 2
+对于RA-RNTI的计算方式：
+
+![[Pasted image 20240820194223.png]]
+
+参数分别对应时间、频点、载波和符号索引
+高速运动带来的多普勒频偏和高延迟导致BS解RA-RNTI出错
+发给UE的message 2中包含的RAO与message 1中UE已知的RAO不同，导致UE无法在RAR window中收到MSG 2
+#### 高延时导致的接收窗内无法收到BS的信息
+对NB-IoT不存在相应的问题，因其PDCCH时长可配置为10.24s
+但对NR存在问题，其max RAR window随OFDM载波间隔的不同分别为80ms，40ms，20ms，10ms和5ms
+#### 高延时导致的MSG 3接收失败与HARQ流程ACK接收失败
+
+#### MSG 3的解调与编码问题
+MSG 3通过PUSCH发送，对于LTE/NB-IoT而言DMRS占据每个时隙的中心符号（共7个符号）
+
+![[Pasted image 20240820210843.png]]
+
+![[Pasted image 20240820211359.png]]
+
+$\alpha$与SF号直接相关，因此DMRS也会受到高延时的影响。
+
+类似的，GLOD序列的初始值也与SF相关：
+
+![[Pasted image 20240820212445.png]]
+

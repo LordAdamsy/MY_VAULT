@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "satellite to phone/NB-IoT NTN/Architecture.md",
+                "file": "satellite to phone/NB-IoT NTN/literature/NB-IoT random access procedure via NTN - system level performances.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "satellite to phone/NB-IoT NTN/Architecture.md",
+                "file": "satellite to phone/NB-IoT NTN/literature/NB-IoT random access procedure via NTN - system level performances.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "satellite to phone/NB-IoT NTN/Architecture.md",
+                "file": "satellite to phone/NB-IoT NTN/literature/NB-IoT random access procedure via NTN - system level performances.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "satellite to phone/NB-IoT NTN/Architecture.md"
+                "file": "satellite to phone/NB-IoT NTN/literature/NB-IoT random access procedure via NTN - system level performances.md"
               }
             }
           }
@@ -146,14 +146,15 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "ff3608e45f96c50c",
+  "active": "e9a75c5bc2bb1abd",
   "lastOpenFiles": [
+    "satellite to phone/NB-IoT NTN/literature/pic/Pasted image 20240825151520.png",
+    "satellite to phone/NB-IoT NTN/5G Architecture and Interface.md",
     "satellite to phone/NB-IoT NTN/literature/NB-IoT random access procedure via NTN - system level performances.md",
     "satellite to phone/NB-IoT NTN/Architecture.md",
     "Architecture.md",
     "satellite to phone/NB-IoT NTN/IoT Rondom Access.md",
     "satellite to phone/NB-IoT NTN/pic",
-    "satellite to phone/NB-IoT NTN/未命名.md",
     "satellite to phone/NB-IoT NTN/pic/Pasted image 20240824100833.png",
     "satellite to phone/NB-IoT NTN/literature/pic",
     "satellite to phone/NB-IoT NTN/literature",

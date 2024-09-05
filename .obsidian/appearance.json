@@ -1,10 +1,10 @@
 {
   "textFontFamily": "YaHei Consolas Hybrid",
-  "cssTheme": "",
+  "cssTheme": "Things",
   "interfaceFontFamily": "YaHei Consolas Hybrid",
   "enabledCssSnippets": [
     "coffebean-图片对齐语法增强"
   ],
   "baseFontSize": 14,
-  "accentColor": "#a1aec4"
+  "accentColor": "#f2f2f3"
 }

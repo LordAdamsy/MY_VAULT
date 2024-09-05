@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "891b521e697fd4d8",
+        "id": "59fe55e698db85d4",
         "type": "tabs",
         "children": [
           {
-            "id": "ff3608e45f96c50c",
+            "id": "f1f8c3289ea0f6fe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "satellite to phone/STB protocol stack/StbProStack.md",
+                "file": "satellite to phone/STB protocol stack/method && C C++/linux中vscode配置多目录C C++环境.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "satellite to phone/STB protocol stack/StbProStack.md",
+                "file": "satellite to phone/STB protocol stack/method && C C++/linux中vscode配置多目录C C++环境.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "satellite to phone/STB protocol stack/StbProStack.md",
+                "file": "satellite to phone/STB protocol stack/method && C C++/linux中vscode配置多目录C C++环境.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "satellite to phone/STB protocol stack/StbProStack.md"
+                "file": "satellite to phone/STB protocol stack/method && C C++/linux中vscode配置多目录C C++环境.md"
               }
             }
           }
@@ -146,18 +146,22 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "ff3608e45f96c50c",
+  "active": "f1f8c3289ea0f6fe",
   "lastOpenFiles": [
+    "satellite to phone/STB protocol stack/method && C C++/C++右值引用与移动拷贝.md",
+    "satellite to phone/STB protocol stack/method && C C++/C++ const.md",
+    "satellite to phone/STB protocol stack/method && C C++/可变参数模板.md",
+    "satellite to phone/STB protocol stack/method && C C++/linux中vscode配置多目录C C++环境.md",
+    "satellite to phone/NB-IoT NTN/literature/Two-Stage Preamble Detector for LEO  Satellite-Based NTN IoT Random Access.md",
+    "satellite to phone/STB protocol stack/method && C C++/CRC8.md",
+    "satellite to phone/STB protocol stack/StbProStack.md",
     "satellite to phone/STB protocol stack/TsnNetwork/TsnEthTools.md",
     "satellite to phone/STB protocol stack/TsnNetwork/TsnMMAPRecv.md",
     "satellite to phone/STB protocol stack/TsnNetwork/TsnMMAPSend.md",
     "satellite to phone/STB protocol stack/TsnNetwork/TsnNMSocket.md",
-    "satellite to phone/STB protocol stack/StbProStack.md",
     "satellite to phone/STB protocol stack/TsnNetwork/未命名.md",
-    "satellite to phone/STB protocol stack/method/C++ const.md",
-    "satellite to phone/STB protocol stack/method/CRC8.md",
     "satellite to phone/STB protocol stack/TsnNetwork",
-    "satellite to phone/STB protocol stack/method",
+    "satellite to phone/STB protocol stack/method && C C++",
     "satellite to phone/STB protocol stack/pic/未命名",
     "satellite to phone/NB-IoT NTN/literature/NB-IoT random access procedure via NTN - system level performances.md",
     "satellite to phone/STB protocol stack/pic",
@@ -189,8 +193,6 @@
     "esp32/PROJECT INITIAL/yml文件.md",
     "esp32/PROJECT INITIAL/PROJECT CONFIGURATION.md",
     "esp32/PROJECT INITIAL/component.md",
-    "satellite to phone/random access/pic/Pasted image 20240716114701.png",
-    "satellite to phone/random access/38.821.md",
-    "欢迎.md"
+    "satellite to phone/random access/pic/Pasted image 20240716114701.png"
   ]
 }

@@ -4,5 +4,7 @@
   "interfaceFontFamily": "YaHei Consolas Hybrid",
   "enabledCssSnippets": [
     "coffebean-图片对齐语法增强"
-  ]
+  ],
+  "baseFontSize": 14,
+  "accentColor": "#f2f2f3"
 }

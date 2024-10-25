@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "891b521e697fd4d8",
+        "id": "59fe55e698db85d4",
         "type": "tabs",
         "children": [
           {
-            "id": "ff3608e45f96c50c",
+            "id": "f1f8c3289ea0f6fe",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -146,7 +146,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "e9a75c5bc2bb1abd",
+  "active": "f1f8c3289ea0f6fe",
   "lastOpenFiles": [
     "satellite to phone/NB-IoT NTN/literature/NB-IoT random access procedure via NTN - system level performances.md",
     "satellite to phone/random access/literature/random access/pic/Pasted image 20240820212445.png",

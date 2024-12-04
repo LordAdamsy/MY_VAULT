@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IoT security/protocol/TLS SSL.md",
+                "file": "IoT security/protocol/5G security.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TLS SSL"
+              "title": "5G security"
             }
           }
         ],
@@ -179,8 +179,9 @@
   },
   "active": "76c88fd5a95b1654",
   "lastOpenFiles": [
-    "satellite to phone/random access/2-step or 4-step/RA procedure.md",
     "IoT security/protocol/TLS SSL.md",
+    "IoT security/protocol/5G security.md",
+    "satellite to phone/random access/2-step or 4-step/RA procedure.md",
     "IoT security/protocol",
     "IoT security",
     "satellite to phone/未命名",
@@ -223,7 +224,6 @@
     "satellite to phone/STB protocol stack/QT code/TsnNetwork/TsnMMAPRecv.md",
     "satellite to phone/STB protocol stack/QT code/TsnNetwork/TsnEthTools.md",
     "satellite to phone/STB protocol stack/QT code/TsnNetwork",
-    "satellite to phone/STB protocol stack/QT code/StbProStack.md",
     "satellite to phone/NB-IoT NTN/literature/pic/Pasted image 20240825151520.png"
   ]
 }

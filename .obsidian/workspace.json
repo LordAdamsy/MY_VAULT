@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "satellite to phone/random access/2-step or 4-step/RA procedure.md",
+                "file": "IoT security/LoRa/LoRa white paper.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "RA procedure"
+              "title": "LoRa white paper"
             }
           },
           {
@@ -35,8 +35,7 @@
               "title": "5G security"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -177,11 +176,20 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "76c88fd5a95b1654",
+  "active": "f1f8c3289ea0f6fe",
   "lastOpenFiles": [
-    "IoT security/protocol/TLS SSL.md",
-    "IoT security/protocol/5G security.md",
+    "IoT security/LoRa/LoRa protocol using hardware accelerators.md",
+    "IoT security/LoRa/LoRa white paper.md",
+    "satellite to phone/STB protocol stack/method && C C++/可变参数模板.md",
+    "satellite to phone/STB protocol stack/method && C C++/运算符优先级.md",
+    "satellite to phone/ip fragment/ip packet.md",
+    "satellite to phone/ip fragment/ip fragment and reassemble.md",
     "satellite to phone/random access/2-step or 4-step/RA procedure.md",
+    "IoT security/protocol/5G security.md",
+    "IoT security/LoRa/images/Pasted image 20241219102318.png",
+    "IoT security/LoRa/images",
+    "IoT security/LoRa",
+    "IoT security/protocol/TLS SSL.md",
     "IoT security/protocol",
     "IoT security",
     "satellite to phone/未命名",
@@ -189,10 +197,7 @@
     "satellite to phone/random access/38.821.md",
     "satellite to phone/random access/NSA.md",
     "satellite to phone/random access/RACH.md",
-    "satellite to phone/ip fragment/ip packet.md",
     "satellite to phone/STB protocol stack/method && C C++/C++ const.md",
-    "satellite to phone/STB protocol stack/method && C C++/运算符优先级.md",
-    "satellite to phone/STB protocol stack/method && C C++/可变参数模板.md",
     "satellite to phone/STB protocol stack/method && C C++/linux中vscode配置多目录C C++环境.md",
     "satellite to phone/STB protocol stack/method && C C++/CRC8.md",
     "satellite to phone/STB protocol stack/method && C C++/CMake.md",
@@ -213,17 +218,11 @@
     "satellite to phone/random access/literature/random access",
     "satellite to phone/ip fragment/pic/ip_packet.png",
     "satellite to phone/ip fragment/pic",
-    "satellite to phone/ip fragment/ip fragment and reassemble.md",
     "satellite to phone/ip fragment",
     "satellite to phone/NB-IoT NTN/literature/NTN IoT random access/pic/Pasted image 20240825151520.png",
     "satellite to phone/NB-IoT NTN/literature/NTN IoT random access/pic",
     "satellite to phone/NB-IoT NTN/literature/NTN IoT random access/NB-IoT random access procedure via NTN - system level performances.md",
-    "satellite to phone/NB-IoT NTN/literature/NTN IoT random access",
     "satellite to phone/STB protocol stack/QT code/TsnNetwork/TsnMMAPSend.md",
-    "satellite to phone/STB protocol stack/QT code/TsnNetwork/TsnNMSocket.md",
-    "satellite to phone/STB protocol stack/QT code/TsnNetwork/TsnMMAPRecv.md",
-    "satellite to phone/STB protocol stack/QT code/TsnNetwork/TsnEthTools.md",
-    "satellite to phone/STB protocol stack/QT code/TsnNetwork",
-    "satellite to phone/NB-IoT NTN/literature/pic/Pasted image 20240825151520.png"
+    "satellite to phone/STB protocol stack/QT code/TsnNetwork/TsnNMSocket.md"
   ]
 }

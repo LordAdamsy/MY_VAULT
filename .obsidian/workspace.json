@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "leetcode/题/二分查找.md",
+                "file": "leetcode/题/动态规划.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "二分查找"
+              "title": "动态规划"
             }
           }
         ]
@@ -171,12 +171,17 @@
   "active": "2c866802b1db407b",
   "lastOpenFiles": [
     "leetcode/题/观察思路or规律.md",
-    "leetcode/题/二分查找.md",
+    "leetcode/题/动态规划.md",
+    "leetcode/method && C C++/static.md",
+    "leetcode/题/pic/d.md",
+    "计算机网络与操作系统/设计模式.md",
     "leetcode/题/排序的变形题.md",
+    "leetcode/题/栈.md",
     "leetcode/题/链表.md",
+    "leetcode/排序.md",
+    "leetcode/题/二分查找.md",
     "leetcode/题/dfs.md",
     "leetcode/method && C C++/vector.md",
-    "leetcode/题/栈.md",
     "leetcode/题/树.md",
     "leetcode/method && C C++/C++右值引用与移动拷贝.md",
     "leetcode/题/算法复杂度优化.md",
@@ -193,11 +198,6 @@
     "leetcode/method && C C++/C++和C混合项目编译.md",
     "leetcode/method && C C++/运算符优先级.md",
     "leetcode/method && C C++/C、C++从源代码到可执行文件.md",
-    "leetcode/排序.md",
-    "IC/huawei 机考.md",
-    "IC/include.md",
-    "IC/initial.md",
-    "IC/parameter.md",
     "leetcode/题/pic/Pasted image 20250428161923.png",
     "leetcode/题/pic/Pasted image 20250428141240.png",
     "leetcode/题/pic/Pasted image 20250428132950.png",

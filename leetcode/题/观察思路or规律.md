@@ -22,3 +22,72 @@
 
 ---
 
+## 0.2 **螺旋矩阵**
+
+给你一个 `m` 行 `n` 列的矩阵 `matrix` ，请按照 **顺时针螺旋顺序** ，返回矩阵中的所有元素。
+
+思路：
+每个方向给定一个位置指定指针，在遍历到该位置后切换方向并调整
+
+```C++
+class Solution {
+public:
+    vector<int> spiralOrder(vector<vector<int>>& matrix) {
+        int left = 0;
+        int right = matrix[0].size();
+        int up = 1;
+        int down = matrix.size();
+        int i = 0;
+        int j = 0;
+        int des = 0;
+        vector<int> res;
+
+        while(left <= right && up <= down){
+            if(des == 0){
+                while(j < right){
+                    res.push_back(matrix[i][j]);
+                    j++;
+                }
+                right--;
+                j--;
+                i++;
+                des = 1;
+            }
+            else if(des == 1){
+                while(i < down){
+                    res.push_back(matrix[i][j]);
+                    i++;
+                }
+                down--;
+                i--;
+                j--;
+                des = 2;
+            }
+            else if(des == 2){
+                while(j >= left){
+                    res.push_back(matrix[i][j]);
+                    j--;
+                }
+                left++;
+                j++;
+                i--;
+                des = 3;
+            }
+            else if(des == 3){
+                while(i >= up){
+                    res.push_back(matrix[i][j]);
+                    i--;
+                }
+                up++;
+                i++;
+                j++;
+                des = 0;
+            }
+        }
+        return res;
+    }
+};
+```
+
+---
+
